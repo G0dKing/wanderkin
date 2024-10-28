@@ -1,4 +1,4 @@
-# wanderkin
+# WanderKin
 A suite of tools to enhance and assist the modern urban explorer.
 
 ## FEATURES
